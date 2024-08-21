@@ -7,7 +7,7 @@ export default function App2() {
       className="bottom"
       style={{
         background: "red",
-        color: "#ffffff",
+        color: "red",
         textAlign: "justify",
         bottom: 0,
         width: "100%",
