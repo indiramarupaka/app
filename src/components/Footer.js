@@ -6,7 +6,7 @@ export default function App2() {
     <footer
       className="bottom"
       style={{
-        background: "#4682B4",
+        background: "red",
         color: "#ffffff",
         textAlign: "justify",
         bottom: 0,
